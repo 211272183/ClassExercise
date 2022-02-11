@@ -1,7 +1,7 @@
 package za.ac.cput.classexercise;
 
 /**
- * Main class for the collaboration
+ *@author Nolubabalo Ndongeni 219319464
  */
 public class GitPractice
 {
