@@ -1,9 +1,10 @@
 package za.ac.cput.classexercise;
 
 /**
- * Main class for the collaboration
+ * Author Ongezwa Gwaza
  */
-public class GitPractice
-{
-
+public class GitPractice {
+    public int addition(int x, int y) {
+        return x + y;
+    }
 }
